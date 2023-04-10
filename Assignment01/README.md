@@ -23,6 +23,7 @@ Heuristics
 1. Visibility of system status (this shows the user where they are in terms of their last steps and next steps)
    
      a. Evaluation: Bad: there is no indication of status when scrolling through the stream of photos, 
+     <img src ="https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3085.PNG?raw=true" width = "200" height = "400" >
      
      b. Severity rating: 1- Users should be able to see where they are in the stream especially where there are hundreds of photos to navigate  through.
      
