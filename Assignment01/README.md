@@ -18,6 +18,8 @@ Severity Rating Scale:
 2. Less important - slightly impacts experience 
 3. Not necessary - improves experience but not essential
 
+(bullet point a is the evaluation and b is the severity rating) 
+
 Heuristics
 
 1. Visibility of system status (this shows the user where they are in terms of their last steps and next steps)
@@ -102,5 +104,84 @@ Heuristics
       a. Bad - the get help screen sends you to draft an email instead of helping you navigate the system 
         
       b. 1- It would be helpful to have a better guide on how to navigate the app 
-        
+
+
+
+## Competitor App: Ekko 
+
+    --- screenshot---- 
+Link:  
+https://www.ekko.pics/
+
+Evaluation: 
+Ekko is an app that creates a photo stream to the other person’s screens. The focus of the app is to have different streams for different occasions. They also include a fun feature that enables the user to “wrap their photo.
+
+
+1. Visibility of system status (this shows the user where they are in terms of their last steps and next steps)
+      
+      a. Good: the system has very limited capabilities, you can only join a stream, create a stream, or add to a stream so it is fairly simple to navigate
+      
+      b. 3- The only thing I would change is creating a different symbol for adding to a stream versus joining a stream 
+      
+
+2. Match between system and the real world (This translates the user’s familiarity with the world to the app) 
+     
+      a. Bad: the middle plus sign should be equivalent to a camera themed button
+      
+      b. 1- I would change the center to be a view of the camera with a camera button 
+      
+      
+3. User control and freedom(this allows the user to freely navigate the page and undo or exit if needed)
+     a. Good: There is only r pages to navigate between which is the home page, creating/joining a stream, or going to the settings 
+     
+     b. 3- The only possible fix is to create the navigation in a central location but not necessary 
+     
+
+4. Consistency and standards (this enables consistency across other platforms and the digital sphere)
     
+     a. Bad: the plus sign typically indicates uploading or adding a file, not taking a picture. 
+     
+     b. 1 - Definitely needs to be changed to a camera symbol of sorts 
+     
+   
+5. Error prevention (this forces the user to acknowledge if an action is intentional to prevent mistakes)
+
+    a. Bad: I had a lot of trouble signing in because it uses the apple ID and provided very poor instructions on how to fix this issue 
+    
+    b. 1- It definitely needs to indicate that the user must select a certain settings in the apple sign in to activate the app
+    
+    
+6. Recognition rather than recall (this shows recognizable symbols so the user is able to navigate with ease)
+    
+    a. Good: They use a plus sign and a person sign, one indicates adding to something and the other indicates profile 
+    
+    b. 2- the profile tab serves more of a settings page so it could be changed to the typical settings icon. 
+    
+7. Flexibility and efficiency of use(this creates potential shortcuts for experienced users to save time) 
+
+    a. Good: There isnt much of a need because of the limited features but it directs the user to add to the stream which is the main purpose for opening the app so it does a good job.
+    
+    b. 2- It is pretty clear. It could better indicate that the top bottom is creating/joining a stream but could use a different icon. 
+    
+   
+8. Aesthetic and minimalist design (this minimizes excess information on the screen) 
+   
+   a. Good: The only things that exist on the screen are the three tabs and a short description during landing.
+   
+   b. 2- It could reduce the description under the camera function, this would especially be improved if they change the plug sign. 
+   
+   
+9. Help users recognize, diagnose, and recover from errors (this is that the error message clearly tells the user what they need to do to fix it) 
+
+    a. Bad: the error message in the onboarding process contained incorrect information that was unhelpful in resolving the issue. 
+    
+    b. 1- This error message did not help recognize or recover from the error and would be in highest priority to change as this step inputs users into the app. 
+    
+
+10. Help and documentation(this guides the user if they need extra information on a particular feature) 
+
+    a. Bad: There is very limited information in the app about how to navigate certain features. 
+    
+    b. 2- It would help to have more information and with a higher level of clarity than the other descriptions currently present. 
+
+
