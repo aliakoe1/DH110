@@ -5,7 +5,7 @@
 
 ## Competitor App : Locket 
 
-<img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3083.PNG?raw=true" width = "500">
+<img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3083.PNG?raw=true" width = "500" height = "200" >
 
 Link:  
 https://apps.apple.com/us/app/locket-widget/id1600525061
