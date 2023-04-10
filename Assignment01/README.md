@@ -129,7 +129,8 @@ Ekko is an app that creates a photo stream to the other person’s screens. The 
 2. Match between system and the real world (This translates the user’s familiarity with the world to the app) 
      
       a. Bad: the middle plus sign should be equivalent to a camera themed button
-      <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/ekko/IMG_3095.PNG?raw=true" width = "200" height = "400"> 
+     
+     <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/ekko/IMG_3095.PNG?raw=true" width = "200" height = "400"> 
       
       
       b. 1- I would change the center to be a view of the camera with a camera button 
@@ -151,10 +152,11 @@ Ekko is an app that creates a photo stream to the other person’s screens. The 
 5. Error prevention (this forces the user to acknowledge if an action is intentional to prevent mistakes)
 
     a. Bad: I had a lot of trouble signing in because it uses the apple ID and provided very poor instructions on how to fix this issue 
-    <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/ekko/IMG_3093.PNG?raw=true" width = "200" height = "400"> 
+  
+  <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/ekko/IMG_3093.PNG?raw=true" width = "200" height = "400"> 
     
     
-    b. 1- It definitely needs to indicate that the user must select a certain settings in the apple sign in to activate the app
+   b. 1- It definitely needs to indicate that the user must select a certain settings in the apple sign in to activate the app
     
     
 6. Recognition rather than recall (this shows recognizable symbols so the user is able to navigate with ease)
