@@ -75,23 +75,23 @@ Heuristics
       b. 3- no changes I would make here
       
 8. Aesthetic and minimalist design (this minimizes excess information on the screen) 
-       a. Good - they use words when they cant sum it up in symbols and the icons are very effective 
+      a. Good - they use words when they cant sum it up in symbols and the icons are very effective 
        
-       b. 3- There is an additional sparkle icon next to some of the words that are kind of unnecessary  
+      b. 3- There is an additional sparkle icon next to some of the words that are kind of unnecessary  
        
        
        
 9. Help users recognize, diagnose, and recover from errors (this is that the error message clearly tells the user what they need to do to fix it) 
         
-        a. Bad- there is no indication of change of tab at the top of the screen, It doesn't show you how to get back to the original screen
+      a. Bad- there is no indication of change of tab at the top of the screen, It doesn't show you how to get back to the original screen
         
-        b. 2- It would help to indicate to the user where they are in the app so that they can navigate accordingly.
+      b. 2- It would help to indicate to the user where they are in the app so that they can navigate accordingly.
         
         
 10. Help and documentation(this guides the user if they need extra information on a particular feature) 
 
-        a. Bad - the get help screen sends you to draft an email instead of helping you navigate the system 
+      a. Bad - the get help screen sends you to draft an email instead of helping you navigate the system 
         
-        b. 1- It would be helpful to have a better guide on how to navigate the app 
+      b. 1- It would be helpful to have a better guide on how to navigate the app 
         
     
