@@ -6,7 +6,9 @@
 ## Competitor App : Locket 
 
 __screenshot ___
+
 link:  
 https://apps.apple.com/us/app/locket-widget/id1600525061
+
 Evaluation: 
 Locket is a widget app that displays photos of your friends or family to your home screen. It allows you to reply to the things that your friends show you. The app naturally refreshes when a new photo is sent across all different screens. 
