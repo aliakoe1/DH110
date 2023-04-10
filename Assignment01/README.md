@@ -65,3 +65,33 @@ Heuristics
       a. Bad - They use an interesting symbol to indicate friends but the bar itself does not make sense. They do use the chat symbol and profile symbol that are easy to recognize
      
       b. 2- they could change this icon to be an add friends symbol because that is what the function of the icon actually does 
+      
+      
+
+7. Flexibility and efficiency of use(this creates potential shortcuts for experienced users to save time) 
+     
+      a. Good - they include a grid function that allows you to see the entire stream without having to scroll through one by one, It also lets you filter it by user so you can find the content you are looking for 
+      
+      b. 3- no changes I would make here
+      
+8. Aesthetic and minimalist design (this minimizes excess information on the screen) 
+       a. Good - they use words when they cant sum it up in symbols and the icons are very effective 
+       
+       b. 3- There is an additional sparkle icon next to some of the words that are kind of unnecessary  
+       
+       
+       
+9. Help users recognize, diagnose, and recover from errors (this is that the error message clearly tells the user what they need to do to fix it) 
+        
+        a. Bad- there is no indication of change of tab at the top of the screen, It doesn't show you how to get back to the original screen
+        
+        b. 2- It would help to indicate to the user where they are in the app so that they can navigate accordingly.
+        
+        
+10. Help and documentation(this guides the user if they need extra information on a particular feature) 
+
+        a. Bad - the get help screen sends you to draft an email instead of helping you navigate the system 
+        
+        b. 1- It would be helpful to have a better guide on how to navigate the app 
+        
+    
