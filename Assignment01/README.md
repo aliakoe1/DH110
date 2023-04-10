@@ -50,6 +50,10 @@ Heuristics
 
      a. Good: it maintains a large white button in the center of the screen to indicate to the user to take a photo 
      
+     <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3090.PNG?raw=true" width = "200" height = "400"> 
+     <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3087.PNG?raw=true" width = "200" height = "400">
+     <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3088.PNG?raw=true" width = "200" height = "400"> 
+     
      b. 3 - No need to change it, the only possible improvement is changing the position of the reverse camera function because it takes away from the main button
      
      
