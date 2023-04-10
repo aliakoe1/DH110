@@ -62,6 +62,9 @@ Heuristics
 
      a. Good - before deleting the account it asks specifically why you want to delete the account and the last step is to go back before confirming 
      
+      <img src = "https://github.com/aliakoe1/DH110-ALIAKOE/blob/main/locket/IMG_3089.PNG?raw=true" width = "200" height = "400"> 
+    
+     
      b. 3- there are very minimal features on the app and so i wouldn't add any error prevention windows to other parts of the app and this one is good. 
      
      
