@@ -5,7 +5,7 @@
 
 ## Competitor App : Locket 
 
-__screenshot ___
+<img src = " ">
 
 Link:  
 https://apps.apple.com/us/app/locket-widget/id1600525061
