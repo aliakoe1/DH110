@@ -21,6 +21,7 @@ https://drive.google.com/file/d/1Iyg-eLS4839WtE9bkS4Q6OgjpRPf4b4q/view?usp=share
 I learned that conducting a usability test is more difficult than it looks. I think I went into the process thinking that it was simple 
 but it actually takes a large amount of focus, precision, and intention to create clear and precise questions. I also had to adjust to 
 the fact that it is an app and not a website to conduct the zoom on my phone. Conducting the zoom trying to screen record but also record the
-user was very difficult. I would want to create more general tasks to see how the user navigated the app in general. I think this would give 
+user was very difficult. As you can see in the video, we ran into technical difficulties so I had to adjust and be flexible. 
+I would want to create more general tasks to see how the user navigated the app in general. I think this would give 
 me insight on overall app navigation which I am interested in. I would also see if there is a way to screen record and conduct a zoom on a computer
 and then edit the video to be on a split screen so it would be a clear video for both. 
