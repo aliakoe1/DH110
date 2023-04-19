@@ -24,4 +24,6 @@ the fact that it is an app and not a website to conduct the zoom on my phone. Co
 user was very difficult. As you can see in the video, we ran into technical difficulties so I had to adjust and be flexible. 
 I would want to create more general tasks to see how the user navigated the app in general. I think this would give 
 me insight on overall app navigation which I am interested in. I would also see if there is a way to screen record and conduct a zoom on a computer
-and then edit the video to be on a split screen so it would be a clear video for both. 
+and then edit the video to be on a split screen so it would be a clear video for both. In addition, the tasks took a significantly less amount of time to figure out. 
+
+Also I found that some of the wording had to be clarified during the interview. It was fun because I was able to interview someone that was my friend but she took it seriously and we had a lot of fun during the process. 
