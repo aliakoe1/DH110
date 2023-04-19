@@ -14,7 +14,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSclhBKnMe2IFHVNxm166cxIgDqT8g0WgNIta0wt
 
 ## Pilot video 
 
-https://drive.google.com/file/d/1Iyg-eLS4839WtE9bkS4Q6OgjpRPf4b4q/view?usp=share_link
+https://drive.google.com/file/d/1wATcoXlREfig2joq-taBlPVVziGzhriy/view?usp=sharing
 
 ## Reflection 
 
