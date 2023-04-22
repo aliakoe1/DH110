@@ -37,7 +37,7 @@ on how a platform could translate those desires and requests into design impleme
 
 
 
- <img src = "(https://user-images.githubusercontent.com/114698982/233808027-acd294d4-b615-48a3-b3db-8c6a01990d3c.JPG)" width = "200" height = "400"> 
+ <img src = "https://user-images.githubusercontent.com/114698982/233808027-acd294d4-b615-48a3-b3db-8c6a01990d3c.JPG" width = "200" height = "400"> 
 ![IMG_4127])
 ![IMG_4125](https://user-images.githubusercontent.com/114698982/233808028-b76f46ad-1306-4f24-ac9a-1d3f8598d21c.JPG)
 
