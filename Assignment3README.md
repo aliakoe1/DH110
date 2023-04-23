@@ -4,6 +4,11 @@
 
 ## Research goal, Constraints, and Target User 
 
+The main activity my project would support for the users is sharing daily updates with family members. The basic need involved is the ability to send and receive messages and access it easily. The current solutions to satisfy these needs are through imessage, various social media, phone call, facetime etc. The issue with these solutions is that certain platforms are preferred to others based on age range and there is no fluidity with the different platforms. The limitations that would be improved is the lack of fucos on the task to communicate the information and instead being able to highlight the content. 
+
+The constraint is limited because of the population I have acess to. I was able to talk to my roommates' grandparents. I also fully thought that I could record video and/or voice memo but had to adjust to their preferences. 
+
+The Target users were families so the age range is pretty wide. It ranges from high technological expertise to low but the target is specifically elder generations becuase the app needs to be easy for them to navigate without evoking frustration. It also is important to tailor to this audience because it provides a new medium for them to communicate with their families through an easy to use platform whereeas younger generations can easily use other modes of communication ot stay in touch. The context would be every day by updating their family on what is happening. I conducted the study in a causual setting like a home because most of the interaction on the app would be very casual. Usually, users would phone call, email, or meet in person to update their family on their life. 
 
 
 ## Research Methods and Plan 
