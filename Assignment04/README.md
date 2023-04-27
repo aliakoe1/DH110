@@ -7,3 +7,19 @@ to create a more well-rounded product. It highlights behaviors in the user and m
 can come up with the model. It also allows the creator to move with direction and precision when designing a prototype. 
 
 In my project, this storytelling will help me understand users from different generations. My project focuses on allowing families across two generations (grandparents to adults to kids) to share photos throughout their day to encourage connection and conversation. This exercise will help me put myself in the shoes of someone at different intensity or levels of technological literacy. Because my project has 3 ideal users, it is important to contemplate the different stresses and problems that could occur across these different audiences as well as subgroup specific issues. 
+
+
+
+
+
+
+## Scenarios & Journey Map 
+
+# Why Anne is using this product 
+
+Anne spends most of her time at home and is a lonely elderly person. She enjoys playing online chess and tending to her garden. Her family is one of her main sources of comfort, entertainment, and love being a widow with many of her friends having passed away. She misses them dearly and wants to visit them but can no longer drive due to old age. She has trouble sending texts and it often takes her hours figuring out how to send a simple message. She also occassionally emails her family but sometimes runs into technical issues. This product allows her to easily engage with her family in a simple way. She is able to scroll through a stream of recent moments of their lives. It allows her to feel more connected to her loved ones as well as easily share small moments from her day. 
+
+# How Anne is using this product 
+
+When she woke up, she decided to make pancakes with blueberries from the bush in her garden. She decides to open the product and snap a picture of her pancakes so her family can see it. She is happy when she sees her daughter send a selfie responding to her pancake photo in the stream. Later in the day, she realizes that she has not heard from her granddaughter recently and looks at the stream and filters it by posts from her granddaughter and sees lovely pictures of her and her friends, new books she is reading, and all of the fun college things she does from day to day. 
+
