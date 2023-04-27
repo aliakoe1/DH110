@@ -8,7 +8,8 @@ can come up with the model. It also allows the creator to move with direction an
 
 In my project, this storytelling will help me understand users from different generations. My project focuses on allowing families across two generations (grandparents to adults to kids) to share photos throughout their day to encourage connection and conversation. This exercise will help me put myself in the shoes of someone at different intensity or levels of technological literacy. Because my project has 3 ideal users, it is important to contemplate the different stresses and problems that could occur across these different audiences as well as subgroup specific issues. 
 
- ![anne about](anneabout.jpg)
+ ![anne about](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png)
+ 
  
  
 
