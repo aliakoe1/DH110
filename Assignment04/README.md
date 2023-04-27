@@ -15,11 +15,28 @@ In my project, this storytelling will help me understand users from different ge
 
 ## Scenarios & Journey Map 
 
-# Why Anne is using this product 
+### Why Anne is using this product 
 
 Anne spends most of her time at home and is a lonely elderly person. She enjoys playing online chess and tending to her garden. Her family is one of her main sources of comfort, entertainment, and love being a widow with many of her friends having passed away. She misses them dearly and wants to visit them but can no longer drive due to old age. She has trouble sending texts and it often takes her hours figuring out how to send a simple message. She also occassionally emails her family but sometimes runs into technical issues. This product allows her to easily engage with her family in a simple way. She is able to scroll through a stream of recent moments of their lives. It allows her to feel more connected to her loved ones as well as easily share small moments from her day. 
 
-# How Anne is using this product 
+### How Anne is using this product 
 
 When she woke up, she decided to make pancakes with blueberries from the bush in her garden. She decides to open the product and snap a picture of her pancakes so her family can see it. She is happy when she sees her daughter send a selfie responding to her pancake photo in the stream. Later in the day, she realizes that she has not heard from her granddaughter recently and looks at the stream and filters it by posts from her granddaughter and sees lovely pictures of her and her friends, new books she is reading, and all of the fun college things she does from day to day. 
 
+
+### Why Carrie is using this product 
+
+Carrie's days are filled with friends, exercise, good food, nature and house upkeep. She wants to share this with her kids that go to school but doesn't want to post to her friends on Instagram. She dislikes posting on Facebook because some friends from high school interact with her content. This app allows her to privately share these fun moments with her family. 
+
+### How Carrie is using this product 
+
+Carrie is able to see what her kids have been up to recently. She is able to use this content knowledge in ehr next conversations with them. It gives her a sense of peace, comfort, and joy being able to see into the lives that her kids are building. She also uses it to see what her parents have been up to as well to show them what she has been up to. 
+
+
+### Why Rachel is using this product 
+
+This product creates a simple stream of content that she can privately share moments of her day with her family without having to post on her social media. It enables her to post the fun parts of her day like a fun meal or even a cool penny she found on the ground. It also allows her to see what is happening in her parents and grandparents lives in an intimate way. 
+
+### How Rachel is using this product 
+
+She takes pictures of little exciting things throughout her day. For example, maybe she is in a coffee shop and decides to get a blueberry muffin which reminds her of her grandmother's amazing blueberry chocolate chip muffins. She wants to show her grandmother but also her mom who loves those muffins. Instead of creating a groupchat for a seemingly insignificant thing, she posts it to the stream!
