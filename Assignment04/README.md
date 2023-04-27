@@ -10,7 +10,9 @@ In my project, this storytelling will help me understand users from different ge
 
 ## Tasks 
 
-1) One 
+1) One task would be to simply upload a moment that they want to share in their life. They would come up with some content to share and simply take a picture in the app and then upload it to the stream. 
+
+2) Another task would be to access content that a certain person recently posted. This would require the user to open the app, navigate to a section where they can see their groups, and then open their group, and then navigate to the filter, and select the filter by one person. 
 
  ![anne about](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png)
  ![anne map](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annemap.png)
@@ -28,11 +30,12 @@ In my project, this storytelling will help me understand users from different ge
 
 ### Why Anne is using this product 
 
-Anne spends most of her time at home and is a lonely elderly person. She enjoys playing online chess and tending to her garden. Her family is one of her main sources of comfort, entertainment, and love being a widow with many of her friends having passed away. She misses them dearly and wants to visit them but can no longer drive due to old age. She has trouble sending texts and it often takes her hours figuring out how to send a simple message. She also occassionally emails her family but sometimes runs into technical issues. This product allows her to easily engage with her family in a simple way. She is able to scroll through a stream of recent moments of their lives. It allows her to feel more connected to her loved ones as well as easily share small moments from her day. 
+Anne spends most of her time at home and is a lonely elderly person. She enjoys playing online chess and tending to her garden. Her family is one of her main sources of comfort, entertainment, and love being a widow with many of her friends having passed away. She misses them dearly and wants to visit them but can no longer drive due to old age. She has trouble sending texts and it often takes her hours figuring out how to send a simple message. She also occasionally emails her family but sometimes runs into technical issues. This product allows her to easily engage with her family in a simple way. She is able to scroll through a stream of recent moments of their lives. It allows her to feel more connected to her loved ones as well as easily share small moments from her day. 
 
 ### How Anne is using this product 
 
-When she woke up, she decided to make pancakes with blueberries from the bush in her garden. She decides to open the product and snap a picture of her pancakes so her family can see it. She is happy when she sees her daughter send a selfie responding to her pancake photo in the stream. Later in the day, she realizes that she has not heard from her granddaughter recently and looks at the stream and filters it by posts from her granddaughter and sees lovely pictures of her and her friends, new books she is reading, and all of the fun college things she does from day to day. 
+When she woke up, she was hungry and excited for the sunny day. She goes out to her garden and sees all of the lovely fruit that is in bloom because of the spring season. She decided to make pancakes with the new blueberries from the bush in her garden. Anne makes the perfectly round pancake and is so excited and wants to share this lovely morning with her family. She decides to open the product and snap a picture of her pancakes so her family can see it. She is happy when she sees her daughter send a selfie responding to her pancake photo in the stream. Later in the day, she realizes that she has not heard from her granddaughter recently. Anne is sad and wishes that she could visit her granddaughter but she cannot drive an hour to go see her. They have dinner plans a month from now but it is too far away to remember to tell her about her lovely pancakes. She is also curious about what is happening in her granddaughter’s life. So she opens the app and looks at the stream and sees all of the things the rest of her family is up to. She specifically wants to see what her granddaughter has been doing at college so she filters the stream to just show posts from her granddaughter. As she navigates to the stream, she is overjoyed when looking at the lovely pictures of her and her friends, new books she is reading, and all of the fun college things she does from day to day. 
+
 
 ![anne user journey map](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annejourney.png)
 
