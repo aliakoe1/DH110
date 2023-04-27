@@ -40,7 +40,7 @@ Carrie's days are filled with friends, exercise, good food, nature and house upk
 
 Carrie is able to see what her kids have been up to recently. She is able to use this content knowledge in ehr next conversations with them. It gives her a sense of peace, comfort, and joy being able to see into the lives that her kids are building. She also uses it to see what her parents have been up to as well to show them what she has been up to. 
 
-![carrie user map](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriemap.png)
+![carrie user journey](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriejourney.png)
 
 
 ### Why Rachel is using this product 
@@ -51,4 +51,4 @@ This product creates a simple stream of content that she can privately share mom
 
 She takes pictures of little exciting things throughout her day. For example, maybe she is in a coffee shop and decides to get a blueberry muffin which reminds her of her grandmother's amazing blueberry chocolate chip muffins. She wants to show her grandmother but also her mom who loves those muffins. Instead of creating a groupchat for a seemingly insignificant thing, she posts it to the stream!
 
-![rachel user map](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/rachelmap.png)
+![rachel user journey](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/racheljourney.png)
