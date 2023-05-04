@@ -2,7 +2,7 @@
 
 ## Description of Project 
 
-  My project idea is a photo stream app for families. This platform will enable users to share small moments in their day through picture or video and easily access content by their family. Users can filter content per contributor to stay abreast to what is happening in their loved ones lives. This app is structured to simply create and receive content through a very straightforward, linear process which other platforms tend to complicate. The goal is to strengthen the bond between families by allowing them to communicate in a way that is accessible for multiple generations. 
+  My project idea is a photo stream app for families. This platform will enable users to share small moments in their day through picture or video and easily access content by their family. Users can filter content per contributor to stay abreast to what is happening in their loved ones lives. This app is structured to simply create and receive content through a very straightforward, linear process which other platforms tend to complicate. The goal is to strengthen the bond between families by allowing them to communicate in a way that is accessible for multiple generations. Although my users span through a wide range of ages, I would like to focus on the persona of the elderly user. Making something that is easy to use for someone who is less technologically literate will be easy to use for everyone. 
 
 ## Purpose of Prototype 
 
