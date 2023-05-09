@@ -24,8 +24,6 @@ With accessing content, the user will automatically be able to see a stream of c
 
 ![roommate feedback]()
 
-#### User Feedback 
-https://github.com/aliakoe1/DH110/blob/main/Low%20Fidelity%20Prototype%20Feedback%20.pdf
 
 
 ## Reflection/Feedback 
