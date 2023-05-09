@@ -19,6 +19,9 @@ With creating content, there is going to be a camera function within the app, it
 With accessing content, the user will automatically be able to see a stream of content from their group. They will have the ability to access other groups in this frame, as well as filter the content into a grid or stream scrolling view. They will also have the ability to like and comment on content and there may be a feature that allows them to record a voice reaction to the content. 
 
 ### Pictures 
+![lo -fidelity prototype](https://github.com/aliakoe1/DH110/blob/main/a5/lofi1.png)
+![feedback](https://github.com/aliakoe1/DH110/blob/main/a5/lofif.png)
+![roommate feedback]()
 
 #### User Feedback 
 https://github.com/aliakoe1/DH110/blob/main/Low%20Fidelity%20Prototype%20Feedback%20.pdf
