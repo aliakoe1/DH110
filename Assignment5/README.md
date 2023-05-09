@@ -21,6 +21,7 @@ With accessing content, the user will automatically be able to see a stream of c
 ### Pictures 
 ![lo -fidelity prototype](https://github.com/aliakoe1/DH110/blob/main/a5/lofi1.png)
 ![feedback](https://github.com/aliakoe1/DH110/blob/main/a5/lofif.png)
+
 ![roommate feedback]()
 
 #### User Feedback 
