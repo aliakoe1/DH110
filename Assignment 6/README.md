@@ -10,6 +10,7 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ## Design 
 
 ### Typographic Variation 
+![Uploading Screenshot 2023-05-16 at 3.37.03 PM.png…]()
 
 ### Shape variation -- 
 
