@@ -17,11 +17,13 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 
 ## Color Schemes 
 ### Color Palette
-![]()
+![color palette](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/colorpalette.png)
 
 ### Light and Dark Mode 
+![light and dark mode](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightdark.png)
 
 ### Layout Test (10px grid) 
+![grid test](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/gridtest.png)
 
 ## Discussion 
 
@@ -29,10 +31,11 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 
 ## Accessibility Tests
 ### Check for Light Mode 
-![]()
+![light mode accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png)
 ### Check for Dark Mode 
-![]()
+![dark mode accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png)
 
 ### Additional Check 
-![]()
+![accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/accessibility%20check%20.png)
 ## Design System 
+![design system](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Design%20System.png)
