@@ -42,6 +42,8 @@ This accessibility has an additional check. I found that the biggest issues were
 ![design system](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Design%20System.png)
 
 ## Discussion 
-typography 
-color palette 
-layout 
+For typography, I decided to use "Inter". I compared many different fonts and originally thought that the font would be similar to that used by the Uber interface. However, I wanted to create a very clean interface and wanted accessibility to be the main focus instead of visual appeal. I also wanted to use a very simple font. 
+
+In terms of color, I wanted the middle button to stand out. The gradient really highlights the button and makes it easy to see. I originally had the tab bar and filter button to be black but through the impresssion test, I found that it was a bit too dark and needed to have less harsh of a contrast. 
+
+I tried to create a very simple layout with minimal information. I had to adjust to ensure that the filter button fit below the iphone microphone so that it would display correctly. In addition, I grouped the grid and the filter button together because it allows the user to understand that if they want to change the layout they can navigate to this grouping of buttons. In addition, I included the profile and settings on the bottom to be grouped because they typically do not have to be accessed in the tasks of uploading and accessing content. 
