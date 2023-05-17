@@ -16,13 +16,23 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ![button variations](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png)
 
 ## Color Schemes 
+### Color Palette
 ![]()
+
+### Light and Dark Mode 
+
+### Layout Test (10px grid) 
+
 ## Discussion 
 
 ## Impression Test 
 
 ## Accessibility Tests
+### Check for Light Mode 
 ![]()
+### Check for Dark Mode 
 ![]()
+
+### Additional Check 
 ![]()
 ## Design System 
