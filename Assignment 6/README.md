@@ -36,6 +36,7 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ![dark mode accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png)
 
 ### Additional Check 
-![accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/accessibility%20check%20.png)
+![accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png)
+This accessibility has an additional check. I found that the biggest issues were that when the text size is increased to account for eyesight difficulties, the buttons turn to be a bit hard to read and the page does not maintain its appeal. I think one way to possibly remedy this issue is to increase the space between buttons to account for a possible larger text size. 
 ## Design System 
 ![design system](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Design%20System.png)
