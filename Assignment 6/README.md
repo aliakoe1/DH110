@@ -28,7 +28,7 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ## Impression Test 
 https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Impression%20Test%20Transcript%20.pdf
 
-This was a very interesting conversation and a helpful exercise. 
+This was a very interesting conversation and a helpful exercise. It definitely made me reflect on certain design decisions and understand which ones to defend and which ones I also agreed with. Specifically, I do agree that I should maintain one font type throughout the webpage. I also did not realize that a possible grouping of the post information would be helpful or intentionally create space to make the content be the main focus of the page is important. I am happy that she enjoyed the tab bar because it took a while to figure out. I agree with the point about how the tab bar could look less colored but I might remove the labels for readability. 
 ## Accessibility Tests
 ### Check for Light Mode 
 ![light mode accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png)
