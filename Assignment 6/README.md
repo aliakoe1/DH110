@@ -13,13 +13,16 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ![typographic variation](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png)
 
 ### Shape variation -- 
+![button variations](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png)
 
 ## Color Schemes 
-
+![]()
 ## Discussion 
 
 ## Impression Test 
 
 ## Accessibility Tests
-
+![]()
+![]()
+![]()
 ## Design System 
