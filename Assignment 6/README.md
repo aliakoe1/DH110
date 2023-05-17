@@ -25,10 +25,10 @@ https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&n
 ### Layout Test (10px grid) 
 ![grid test](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/gridtest.png)
 
-## Discussion 
-
 ## Impression Test 
+https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Impression%20Test%20Transcript%20.pdf
 
+This was a very interesting conversation and a helpful exercise. 
 ## Accessibility Tests
 ### Check for Light Mode 
 ![light mode accessibility check](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png)
