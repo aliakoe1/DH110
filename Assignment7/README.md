@@ -16,7 +16,7 @@ https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=des
 
 ### Overall Wireflow Design  
  <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/overall%20flow.png" width = "200" height = "400"> 
-![overall wireflow design](https://github.com/aliakoe1/DH110/blob/main/Assignment7/overall%20flow.png)
+
 
 
 ### Task Design Flows
