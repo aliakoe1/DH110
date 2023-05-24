@@ -32,8 +32,6 @@ This shows the navigation of the groups. It starts with the group page that allo
 ![task2 photo](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task2.png)
 ![task2 gif](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif)
 
-### Screens 
-overall screenshot 
 
 ## Cognitive Walkthrough 
 
