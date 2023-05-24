@@ -30,7 +30,7 @@ This displays the navigation of the home page which is where the user spends maj
 #### Task 2 - Group Navigation
 This shows the navigation of the groups. It starts with the group page that allows you to see which groups you are a part of. Then you can see what creating a new group looks like. This flow then shows you how to see the group details and leave a group and what it looks like when you leave a group. It also shows you what its like to take a picture and upload it to the feed. Then it shows the profile tab and the settings tab. 
 ![task2 photo](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task2.png)
-![task2 gif](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/2task.gif)
+![task2 gif](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif)
 
 ### Screens 
 overall screenshot 
