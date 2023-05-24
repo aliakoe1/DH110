@@ -16,7 +16,7 @@ This prototype aims to flesh out the product idea. It allows potential investors
 ### Link to prototype 
 https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1
 
-embed 
+![task gif](
 
 ### Overall Wireflow Design  
  <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/overall%20flow.png" width = "200" height = "400"> 
