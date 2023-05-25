@@ -34,6 +34,7 @@ This shows the navigation of the groups. It starts with the group page that allo
 
 
 ## Cognitive Walkthrough 
+I conducted cognitive walkthroughs on two of my roommates, Maddie and Chloe. I got very useful feedback. Something that I found that is helpful is I saw gaps in some of my designs. I now will incorporate a chat and like feature in my future iterations of design. 
 ![cognitive walkthrough](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/cognitivewalkthrough.png)
 
 
