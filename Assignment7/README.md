@@ -34,4 +34,6 @@ This shows the navigation of the groups. It starts with the group page that allo
 
 
 ## Cognitive Walkthrough 
+![cognitive walkthrough](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/cognitivewalkthrough.png)
+
 
