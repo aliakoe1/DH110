@@ -37,4 +37,21 @@ This shows the navigation of the groups. It starts with the group page that allo
 I conducted cognitive walkthroughs on two of my roommates, Maddie and Chloe. I got very useful feedback. Something that I found that is helpful is I saw gaps in some of my designs. I now will incorporate a chat and like feature in my future iterations of design. 
 ![cognitive walkthrough](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/cognitivewalkthrough.png)
 
+## Usability Tests 
+
+I conducted 7 usability tests on my roommates and my close friends. I allowed them to navigate through the current prototype to see potential areas where the user may have trouble. I also got their feedback on the various features and possible features to implement. 
+
+here are the themes that I found: 
+- users would want additional ways to interact with content (likes and comments) 
+- there should be an ability to delete posts 
+
+
+## Increased interactions 
+![adding a like and comment function]() 
+I decided to implement a comment function and a like ability. The comments allow the user to see the profile picture of the other users that commented on the post. 
+
+## Delete Post 
+![deleting a post]() 
+I added an edit button to the profile page that allows the user to delete their post from their profile page. 
+
 
