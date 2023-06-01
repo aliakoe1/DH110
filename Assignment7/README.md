@@ -47,7 +47,7 @@ here are the themes that I found:
 
 
 ## Increased interactions 
-![adding a like and comment function]() 
+![adding a like and comment function](https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.12%20PM.png) 
 I decided to implement a comment function and a like ability. The comments allow the user to see the profile picture of the other users that commented on the post. 
 
 ## Delete Post 
