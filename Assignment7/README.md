@@ -48,10 +48,10 @@ here are the themes that I found:
 
 ## Increased interactions 
 ![adding a like and comment function](https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.12%20PM.png) 
-I decided to implement a comment function and a like ability. The comments allow the user to see the profile picture of the other users that commented on the post. 
+I decided to implement a comment function and a like ability. The comments allow the user to see the profile picture of the other users that commented on the post. They 
 
 ## Delete Post 
 ![deleting a post](https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.37%20PM.png) 
-I added an edit button to the profile page that allows the user to delete their post from their profile page. 
+I added an edit button to the profile page that allows the user to delete their post from their profile page.To account for older users I included a large trash can icon on the images to make it easy to indicate that the image is deletable and clickable. In addition, the menu asks them to confirm their selection to ensure that the user wants to delete their post.  
 
 
