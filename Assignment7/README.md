@@ -54,4 +54,4 @@ I decided to implement a comment function and a like ability. The comments allow
 ![deleting a post](https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.37%20PM.png) 
 I added an edit button to the profile page that allows the user to delete their post from their profile page.To account for older users I included a large trash can icon on the images to make it easy to indicate that the image is deletable and clickable. In addition, the menu asks them to confirm their selection to ensure that the user wants to delete their post.  
 
-
+link to the new prototype: https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=Yr9flWEk9eQUdVNv-1
