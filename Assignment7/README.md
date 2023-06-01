@@ -51,7 +51,7 @@ here are the themes that I found:
 I decided to implement a comment function and a like ability. The comments allow the user to see the profile picture of the other users that commented on the post. 
 
 ## Delete Post 
-![deleting a post]() 
+![deleting a post](https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.37%20PM.png) 
 I added an edit button to the profile page that allows the user to delete their post from their profile page. 
 
 
