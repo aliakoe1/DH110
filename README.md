@@ -26,6 +26,7 @@ For the full analysis: https://github.com/aliakoe1/DH110/tree/main/Assignment01
 ## Contextual Inquiry 
 I then conducted research on the target users to better understand how to tailor the platform to different generations. I used a mixture of active and passive interaction, first studying the conversation topics that naturally came up and then asked them questions about how they interact with their family members currently. I organized a dinner with some of my roommates and my friend Emily's grandparents. We went over to dinner and I was able to understand that users <b> wish to share small moments to keep each other updated to faciliate in person interaction</b>. 
 
-
+## UX Storytelling 
+I then generated user personas based on my research to create a clear image of the 
 
 
