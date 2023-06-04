@@ -28,6 +28,6 @@ I then conducted research on the target users to better understand how to tailor
 
 ## UX Storytelling 
 I then generated user personas based on my research to create a clear image of the users. I focused on the different age ranges of the families and generated three different personas: a teen in college, a mother at home, and a grandmother. Creating multiple personas enabled me to gain understanding on multiple perspectives for this platform. 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png" width = "400" height = "600"> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png" width = "600" height = "400"> 
 
 
