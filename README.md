@@ -103,9 +103,9 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 ## Conclusion 
 
 Over this process, I learned about how to properly research, design, and create a product. In this specific project, I learned that it is important to focus on the simplicity of the product and making sure it properly accomplishes its goals. In addition, I learned the value of multiple rounds of feedback and iteration of design. I am very proud of the product that I created and I hope that you enjoy navigating it as well. <br>
-Here are three of my takeaways: 
--<b>Interact with users and get real feedback!</b> It is important to empathize with the user and visualize different points of interaction with the app that may be difficult or hard to achieve. However, real feedback and asking different people in your life (friends, families, strangers, classmates, and experts) can give you a fresh perspective to your project. 
--<b>Experimenting is important!</b> Your designs will be more refined when you try out different variations for various elements. Also switching the layout of multiple screens can help you get a better understanding for your vision for the platform. 
+Here are three of my takeaways: <br>
+-<b>Interact with users and get real feedback!</b> It is important to empathize with the user and visualize different points of interaction with the app that may be difficult or hard to achieve. However, real feedback and asking different people in your life (friends, families, strangers, classmates, and experts) can give you a fresh perspective to your project. <br>
+-<b>Experimenting is important!</b> Your designs will be more refined when you try out different variations for various elements. Also switching the layout of multiple screens can help you get a better understanding for your vision for the platform. <br>
 - <b>Check heuristics along the way!</b> I verified that my original design for the app considered the different heuristics of design. However, with multiple rounds of iteration of the design some of these checks got lost. It is important to verify that the new designs also align with these important standards. 
  
 
