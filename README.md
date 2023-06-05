@@ -95,14 +95,13 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 
 
 ## Final Prototype
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8H9tEbDPLQfRNE1yCfAO7Z%2FInteractive-Prototype-2%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DtW6ekh1GpSWYroFu-1" allowfullscreen></iframe>
+[see figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
 
 ## Pitch Video 
 
 ## Conclusion 
 
-
+Over this process, I learned about how to properly research, design, and create a product. In this specific project, I learned that it is important to focus on the simplicity of the product and making sure it properly accomplishes its goals. In addition, I learned the value of multiple rounds of feedback and iteration of design. I am very proud of the product that I created and I hope that you enjoy navigating it as well. 
  
 
 
