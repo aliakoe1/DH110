@@ -30,9 +30,7 @@ I then conducted research on the target users to better understand how to tailor
 I then generated user personas based on my research to create a clear image of the users. I focused on the different age ranges of the families and generated three different personas: a teen in college, a mother at home, and a grandmother. Creating multiple personas enabled me to gain understanding on multiple perspectives for this platform. 
 <br>
 <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carrieabout.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/rachelabout.png" width = "300" height = "200"> 
-
-I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annejourney.png" width = "600" height = "400"> 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriejourney.png" width = "600" height = "400"> 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/racheljourney.png" width = "600" height = "400"> 
+<br>
+I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. <br>
+<img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/racheljourney.png" width = "300" height = "200"> 
 
