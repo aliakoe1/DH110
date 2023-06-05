@@ -86,7 +86,7 @@ Navigating the group channel and other tabs: <br>
 ## Cognitive Walkthrough 
 I then asked various roommates, classmates, and friends for feedback as I walked them through the app. Through this process, I was able to see two frustrations of the user and that pertained to the <b> Nielsen Heuristic 3 user control and freedom</b>. I realized that I needed to give the user the ability to delete posts that they might have added by mistake or no longer align with. In addition, I had to increase the flexibility of the app and allow for a higher rate of interaction between users. Therefore, I added the ability to delete a post as well as add a like and comment. <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.37%20PM.png" width = "600" height = "400"> <br> 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.12%20PM.png" width = "600" height = "200"> <br> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.12%20PM.png" width = "400" height = "500"> <br> 
 
 I was also able to get feedback from other designers in a cognitive walkthrough. <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Screenshot%202023-06-05%20at%2011.19.11%20AM.png" width = "400" height "600">
