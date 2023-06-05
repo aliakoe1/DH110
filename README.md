@@ -73,8 +73,7 @@ I created an overall wireflow to help visualize the different places the user co
 
 Here is an idea of what the prototype is like: 
 <br> 
-![gif1](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task1.gif)
-![gif2](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif)
+![gif1](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task1.gif)![gif2](https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif)
 
 [Final Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
 
