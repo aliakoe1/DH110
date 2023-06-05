@@ -33,4 +33,5 @@ I then generated user personas based on my research to create a clear image of t
 <br>
 I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. <br>
 <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/racheljourney.png" width = "300" height = "200"> 
+Link: [assignment4](https://github.com/aliakoe1/DH110/tree/main/Assignment04)
 
