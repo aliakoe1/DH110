@@ -99,6 +99,7 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 
 ## Pitch Video 
 [see Pitch Deck](https://docs.google.com/presentation/d/1z0obk3jeP4a0e8lP-5NnEzHCYvF7x5s7Tp4QUfiVXg0/edit?usp=sharing) 
+[pitch](https://github.com/aliakoe1/DH110/blob/main/Stream%20Pitch%20Deck.pdf)
 
 ## Conclusion 
 
