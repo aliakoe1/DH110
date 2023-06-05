@@ -99,7 +99,7 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 
 ## Pitch Video 
 
-[video link]("https://drive.google.com/file/d/1YgZwObvaUyoCnW9tR-D6iGihYf7W1jTx/preview")
+[video link]("https://drive.google.com/file/d/1YgZwObvaUyoCnW9tR-D6iGihYf7W1jTx/view?usp=sharing")
 
 
 
