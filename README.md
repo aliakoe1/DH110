@@ -51,11 +51,11 @@ I then received feedback from my roommate Raine, on this very low fidelity versi
 #### Wireframe and Graphic Design Element Variation 
 
 After better understanding the overall layout of the app, I began to design and visualize different iterations of the app. I played with different buttons, icons, and typography. <b> I was able to refine the aesthetic for this app. </b>
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png" width = "350" height = "400"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png" width = "200" height = "300"> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png" width = "350" height = "400"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png" width = "350" height = "400"> 
 
 After making certain decisions, I checked the accessibility of the app. <b> Especially for older users, making sure that all of these decisions optimize accesibility is essential to the success of this app. </b>
 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "200" height = "300"> <br> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "350" height = "400"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "350" height = "400"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "350" height = "400"> <br> 
 
 I focused on the home screen and created different versions of its layout and functions. As you can tell, there were a lot of aspects to figure out. Specifically, I was originally going to have a favorites tab where the user could save content to discuss with their loved one in person, however I learned that this would be a natural part of conversation as I revisted my contextual inquiry exercise. <br>
 [screen iterations](https://github.com/aliakoe1/DH110/blob/main/pics/screen%20iterations.png)<br>
