@@ -55,7 +55,7 @@ After better understanding the overall layout of the app, I began to design and 
 
 After making certain decisions, I checked the accessibility of the app. <b> Especially for older users, making sure that all of these decisions optimize accesibility is essential to the success of this app. </b>
 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "350" height = "330"> <br> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "350" height = "300"> <br> 
 
 I focused on the home screen and created different versions of its layout and functions. As you can tell, there were a lot of aspects to figure out. Specifically, I was originally going to have a favorites tab where the user could save content to discuss with their loved one in person, however I learned that this would be a natural part of conversation as I revisted my contextual inquiry exercise. <br>
 ![screen iterations](https://github.com/aliakoe1/DH110/blob/main/pics/screen%20iterations.png)<br>
