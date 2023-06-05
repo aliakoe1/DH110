@@ -38,7 +38,7 @@ I learned that the app had to be <b> easy to use and accessible for older users<
 ## Low Fidelity Prototype
 
 Then, I used this research to work with precision and design the first iteration of this app. I knew that this would be a very rough draft and that it would be a very bare and minimal version of the prototype with lots of changes needed. I learned that <b> my final prototype would look drastically different </b>. I focused on desgining the two most important tasks for this app which was creating and accessing content. <br>
-<img src = "https://github.com/aliakoe1/DH110/blob/main/a5/lofi1.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/a5/lofif.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/a5/IMG_4677.JPG" width = "200" height = "300"> <br>
+<img src = "https://github.com/aliakoe1/DH110/blob/main/a5/lofi1.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/a5/lofif.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/a5/IMG_4677.JPG" width = "200" height = "280"> <br>
 
 I then received feedback from my roommate Raine, on this very low fidelity version and learned that there would be five tabs: <b> home/feed, a tab to see groups, taking a picture, profile, and settings. </b>
 
