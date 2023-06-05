@@ -10,8 +10,8 @@ For this project, we were told to create an app that helps families. There was a
 <b> The goal of this project was to create a resource that allows families to have direct communication with each other through a social platform structure. </b> 
 
 ## Competitor Analysis 
-I started my research process by looking at competitive apps that do something similar to the goal of this app. I focused on apps that focused on generating an easy to acess stream of content. Often these apps included a widget function but I chose not to include that in this app because that was not the focus of this app. 
-![Locket photo](https://github.com/aliakoe1/DH110/blob/main/pics/locketpic.png)
+I started my research process by looking at competitive apps that do something similar to the goal of this app. I focused on apps that focused on generating an easy to acess stream of content. Often these apps included a widget function but I chose not to include that in this app because that was not the focus of this app. <br> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/pics/locketpic.png" width ="40" height = "40"> <br>
 The first app that I analyzed was Locket and I found that they did a good job of creating different sections of the app like a camera function, content navigation, and group navigation. However, there was no centralized navigation bar which made it a bit difficult to navigate. Users enjoyed scrolling through the content in a easy to use stream. I also conducted a usability test with this app to see the strengths and weakenesses of its design. <br>
 [Locket usability test](https://github.com/aliakoe1/DH110/blob/main/Assignment02.README.md)
 
