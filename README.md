@@ -53,10 +53,6 @@ I then received feedback from my roommate Raine, on this very low fidelity versi
 After better understanding the overall layout of the app, I began to design and visualize different iterations of the app. I played with different buttons, icons, and typography. <b> I was able to refine the aesthetic for this app. </b> <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png" width = "350" height = "400"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png" width = "350" height = "400"> 
 
-After making certain decisions, I checked the accessibility of the app. <b> Especially for older users, making sure that all of these decisions optimize accesibility is essential to the success of this app. </b>
-
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "350" height = "250"> <br> 
-
 I focused on the home screen and created different versions of its layout and functions. As you can tell, there were a lot of aspects to figure out. Specifically, I was originally going to have a favorites tab where the user could save content to discuss with their loved one in person, however I learned that this would be a natural part of conversation as I revisted my contextual inquiry exercise. <br>
 ![screen iterations](https://github.com/aliakoe1/DH110/blob/main/pics/screen%20iterations.png)<br>
 
@@ -83,7 +79,8 @@ Navigating the group channel and other tabs: <br>
 [High Fidelity Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
 <br> [see more about the prototype](https://github.com/aliakoe1/DH110/tree/main/Assignment7)
 
-## Cognitive Walkthrough 
+## Revision 
+#### Cognitive Walkthrough 
 I then asked various roommates, classmates, and friends for feedback as I walked them through the app. Through this process, I was able to see two frustrations of the user and that pertained to the <b> Nielsen Heuristic 3 user control and freedom</b>. I realized that I needed to give the user the ability to delete posts that they might have added by mistake or no longer align with. In addition, I had to increase the flexibility of the app and allow for a higher rate of interaction between users. Therefore, I added the ability to delete a post as well as add a like and comment. <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.37%20PM.png" width = "600" height = "400"> <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/Screenshot%202023-05-31%20at%209.59.12%20PM.png" width = "400" height = "400"> <br> 
@@ -91,11 +88,20 @@ I then asked various roommates, classmates, and friends for feedback as I walked
 I was also able to get feedback from other designers in a cognitive walkthrough. <br> 
 ![cognitive walkthrough feedback](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Screenshot%202023-06-05%20at%2011.19.11%20AM.png?raw=true)
 
+#### Accessibility 
+After making certain decisions, I checked the accessibility of the app. <b> Especially for older users, making sure that all of these decisions optimize accesibility is essential to the success of this app. </b>
+
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/lightaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/darkaccess.png" width = "350" height = "360"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/full%20accessibility%20check.png" width = "350" height = "250"> <br> 
 
 
 ## Final Prototype
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8H9tEbDPLQfRNE1yCfAO7Z%2FInteractive-Prototype-2%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DtW6ekh1GpSWYroFu-1" allowfullscreen></iframe>
+
+## Pitch Video 
+
+## Conclusion 
+
 
  
 
