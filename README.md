@@ -90,7 +90,7 @@ I then asked various roommates, classmates, and friends for feedback as I walked
 
 I was also able to get feedback from other designers in a cognitive walkthrough. <br> 
 ![cognitive walkthrough feedback](https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Screenshot%202023-06-05%20at%2011.19.11%20AM.png?raw=true)
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/Screenshot%202023-06-05%20at%2011.19.11%20AM.png?raw=true" width = "400" height "600">
+
 
 
 ## Final Prototype
