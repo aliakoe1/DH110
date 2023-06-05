@@ -73,7 +73,11 @@ I created an overall wireflow to help visualize the different places the user co
 
 Here is an idea of what the prototype is like: 
 <br> 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task1.gif" width = "250" height = "500">            <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif" width = "250" height = "500">
+Navigating the main feed: 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task1.gif" width = "250" height = "500">     
+<br> 
+Navigating the group channel and other tabs: 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif" width = "250" height = "500">
 
 
 [Final Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
