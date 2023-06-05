@@ -31,5 +31,14 @@ I then generated user personas based on my research to create a clear image of t
 <br>
 I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. <br>
 <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/annejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carriejourney.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/racheljourney.png" width = "300" height = "200"> <br>
+
+I learned that the app had to be <b> easy to use and accessible for older users</b>.
 [see more](https://github.com/aliakoe1/DH110/tree/main/Assignment04)
+
+## Low Fidelity Prototype
+
+Then, I used this research to work with precision and design the first iteration of this app. I knew that this would be a very rough draft and that it would be a very bare and minimal version of the prototype with lots of changes needed. I learned that <b> my final prototype would look drastically different </b>. I focused on desgining the two most important tasks for this app which was creating and accessing content. <br>
+<img src = "https://github.com/aliakoe1/DH110/blob/main/a5/lofi1.png" width = "200" height = "300">
+I then received feedback on this very low fidelity version and learned that there would be five tabs: <b> home/feed, a tab to see groups, taking a picture, profile, and settings. </b>
+
 
