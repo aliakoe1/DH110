@@ -98,7 +98,7 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 [see figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
 
 ## Pitch Video 
-[Pitch deck](https://docs.google.com/presentation/d/1z0obk3jeP4a0e8lP-5NnEzHCYvF7x5s7Tp4QUfiVXg0/edit?usp=sharing) 
+[see Pitch Deck](https://docs.google.com/presentation/d/1z0obk3jeP4a0e8lP-5NnEzHCYvF7x5s7Tp4QUfiVXg0/edit?usp=sharing) 
 
 ## Conclusion 
 
