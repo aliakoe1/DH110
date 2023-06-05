@@ -51,7 +51,7 @@ I then received feedback from my roommate Raine, on this very low fidelity versi
 #### Wireframe and Graphic Design Element Variation 
 
 After better understanding the overall layout of the app, I began to design and visualize different iterations of the app. I played with different buttons, icons, and typography. <b> I was able to refine the aesthetic for this app. </b>
-<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png" width = "200" height = "300"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png" width = "200" height = "300"> 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/typevar.png" width = "400" height = "600"> <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment%206/buttonvar.png" width = "200" height = "300"> 
 
 After making certain decisions, I checked the accessibility of the app. <b> Especially for older users, making sure that all of these decisions optimize accesibility is essential to the success of this app. </b>
 
