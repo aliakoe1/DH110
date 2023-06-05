@@ -99,9 +99,9 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 
 ## Pitch Video 
 
-<iframe src="https://drive.google.com/file/d/1YgZwObvaUyoCnW9tR-D6iGihYf7W1jTx/preview" width="640" height="480" allow="autoplay"></iframe>
+[video link]("https://drive.google.com/file/d/1YgZwObvaUyoCnW9tR-D6iGihYf7W1jTx/preview")
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]((https://drive.google.com/file/d/1YgZwObvaUyoCnW9tR-D6iGihYf7W1jTx/preview)")
+
 
 [see Pitch Deck](https://github.com/aliakoe1/DH110/blob/main/Stream%20Pitch%20Deck.pdf)
 
