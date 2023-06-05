@@ -71,7 +71,7 @@ I created an overall wireflow to help visualize the different places the user co
 <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/overall%20flow.png" width = "200" height = "300"> <br> 
 
-Here is an idea of what the prototype is like: 
+
 <br> 
 Navigating the main feed: <br> 
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/task1.gif" width = "250" height = "500">     
