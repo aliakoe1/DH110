@@ -15,7 +15,7 @@ I started my research process by looking at competitive apps that do something s
 The first app that I analyzed was Locket and I found that they did a good job of creating different sections of the app like a camera function, content navigation, and group navigation. However, there was no centralized navigation bar which made it a bit difficult to navigate. Users enjoyed scrolling through the content in a easy to use stream. I also conducted a usability test with this app to see the strengths and weakenesses of its design. <br>
 [Locket usability test](https://github.com/aliakoe1/DH110/blob/main/Assignment02.README.md)
 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/pics/ekkologo.png" width ="200" height = "200"> <br>
+<img src = "https://github.com/aliakoe1/DH110/blob/main/pics/ekkologo.png" width ="150" height = "150"> <br>
 The second app that I analyzed was called Ekko which focuses on creating a stream of content accesible through a widget. I found that directing the user to the tab that they will use the most often helps the user find the platform easier to navigate. <br>
 
 [see more](https://github.com/aliakoe1/DH110/tree/main/Assignment01)
