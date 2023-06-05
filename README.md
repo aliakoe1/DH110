@@ -58,7 +58,7 @@ I focused on the home screen and created different versions of its layout and fu
 
 After finalizing those decisions and making some edits, I created a design system and finished the low fidelity prototype. <br>
 [see interface design](https://github.com/aliakoe1/DH110/tree/main/Assignment%206) <br> 
-[Wireframes](https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&node-id=0%3A1&t=hFDhmudGPV4XCz5B-1) 
+[see Figma Wireframes](https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&node-id=0%3A1&t=hFDhmudGPV4XCz5B-1) 
 
 ## High Fidelity Prototype
 After many iterations and lots of contemplation, I created a high fidelity prototype. As I focused on specific tasks that the user would engage in, it helped me gain a clearer understanding of the orientation of the app and highlighted areas of weakeness. 
@@ -76,7 +76,7 @@ Navigating the group channel and other tabs: <br>
 <img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/a7/3task.gif" width = "250" height = "500">
 
 
-[High Fidelity Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
+[see Figma High Fidelity Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
 <br> [see more about the prototype](https://github.com/aliakoe1/DH110/tree/main/Assignment7)
 
 ## Revision 
@@ -95,7 +95,7 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 
 
 ## Final Prototype
-[see figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
+[see Figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
 
 ## Pitch Video 
 [see Pitch Deck](https://github.com/aliakoe1/DH110/blob/main/Stream%20Pitch%20Deck.pdf)
