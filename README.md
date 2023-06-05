@@ -64,7 +64,12 @@ After finalizing those decisions and making some edits, I created a design syste
 [see interface design](https://github.com/aliakoe1/DH110/tree/main/Assignment%206) <br> 
 [Wireframes](https://www.figma.com/file/350bU3cpvns9bVKpA4nwP8/Interface-design?type=design&node-id=0%3A1&t=hFDhmudGPV4XCz5B-1) 
 
+## High Fidelity Prototype
+After many iterations and lots of contemplation, I created a high fidelity prototype. As I focused on specific tasks that the user would engage in, it helped me gain a clearer understanding of the orientation of the app and highlighted areas of weakeness. 
 
+I created an overall wireflow to help visualize the different places the user could go to navigate through the app. 
+<img src = "https://github.com/aliakoe1/DH110/blob/main/Assignment7/overall%20flow.png" width = "400" height = "600">
+[Final Prototype](https://www.figma.com/file/iUgmmEtUV2FFanBRuKd57P/Interactive-Prototype?type=design&node-id=0%3A1&t=rYcEKmNnK0AcXSQx-1) 
 
 
 
