@@ -11,7 +11,7 @@ For this project, we were told to create an app that helps families. There was a
 
 ## Competitor Analysis 
 I started my research process by looking at competitive apps that do something similar to the goal of this app. I focused on apps that focused on generating an easy to acess stream of content. Often these apps included a widget function but I chose not to include that in this app because that was not the focus of this app. <br> 
-<img src = "https://github.com/aliakoe1/DH110/blob/main/pics/locketpic.png" > <br>
+<img src = "https://github.com/aliakoe1/DH110/blob/main/pics/locketpic.png" width ="150" height = "150"> <br>
 The first app that I analyzed was Locket and I found that they did a good job of creating different sections of the app like a camera function, content navigation, and group navigation. However, there was no centralized navigation bar which made it a bit difficult to navigate. Users enjoyed scrolling through the content in a easy to use stream. I also conducted a usability test with this app to see the strengths and weakenesses of its design. <br>
 [Locket usability test](https://github.com/aliakoe1/DH110/blob/main/Assignment02.README.md)
 
