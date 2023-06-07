@@ -1,5 +1,5 @@
 # Stream -ALIAKOE
-<img src = "./blob/main/art.jpg" width ="150" height = "150" alt = "a">
+<img src = "./main/art.jpg" width ="150" height = "150" alt = "a">
 ## Details 
 My role in this project was UX Design and Research as I created this app for my DH 110 class. I primarily used Figma for this project. I completed this project over 10 weeks. 
 
