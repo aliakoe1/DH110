@@ -1,5 +1,5 @@
 # Stream -ALIAKOE
-<img src = "https://github.com/aliakoe1/DH110/blob/main/art.jpg" width ="150" height = "150" alt = "a">
+
 ## Details 
 My role in this project was UX Design and Research as I created this app for my DH 110 class. I primarily used Figma for this project. I completed this project over 10 weeks. 
 
@@ -27,6 +27,8 @@ I then conducted research on the target users to better understand how to tailor
 
 ## UX Storytelling 
 I then generated user personas based on my research to create a clear image of the users. I focused on the different age ranges of the families and generated three different personas: a teen in college, a mother at home, and a grandmother. Creating multiple personas enabled me to gain understanding on multiple perspectives for this platform. 
+<br>
+![anneabout](https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png)
 <br>
 <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/anneabout.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/carrieabout.png" width = "300" height = "200"> <img src = "https://github.com/aliakoe1/DH110/blob/main/user%20scenarios/rachelabout.png" width = "300" height = "200"> 
 <br>
