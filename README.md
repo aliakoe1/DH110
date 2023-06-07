@@ -2,6 +2,7 @@
 
 ## Details 
 My role in this project was UX Design and Research as I created this app for my DH 110 class. I primarily used Figma for this project. I completed this project over 10 weeks. 
+![IMG_3193](https://github.com/aliakoe1/DH110/assets/114698982/0d399088-3387-4f72-9ed0-f2c20590a75a)
 
 ## Introduction
 For this project, we were told to create an app that helps families. There was a wide range of options and directions that I could have taken. However, I was inspired by the way that my roommate Lucy's family stays connected through their snapchat group chat. I wanted to create a platform that could extend the accessibility scope to grandparents and make the main focus of the app to share moments with their family. 
