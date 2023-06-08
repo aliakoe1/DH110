@@ -91,7 +91,8 @@ I created an overall wireflow to help visualize the different places the user co
 
 <br> 
 Navigating the main feed: <br> 
- ![ezgif-3-67067d2a36](https://github.com/aliakoe1/DH110/assets/114698982/5f748da3-10ae-4165-bb20-beb3099b095d)
+
+![ezgif-3-e03dc8ebff](https://github.com/aliakoe1/DH110/assets/114698982/fadad214-ce18-475e-b78b-b7a8dabdb855)
 
 
 <br> 
