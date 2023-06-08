@@ -124,7 +124,9 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 <img width="706" alt="darkaccess" src="https://github.com/aliakoe1/DH110/assets/114698982/66655bf3-07db-48b6-bcee-a4aa20e67c5c"> <img width="663" alt="full accessibility check" src="https://github.com/aliakoe1/DH110/assets/114698982/b122a5fb-ede2-466c-bb2d-e6850d7b5f12">
 
 <br> 
-[see more](https://github.com/aliakoe1/DH110/tree/main/Assignment%206)
+
+
+[see moree](https://github.com/aliakoe1/DH110/tree/main/Assignment%206)
 
 ## Final Prototype
 [see Figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
