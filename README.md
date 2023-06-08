@@ -32,7 +32,7 @@ I then conducted research on the target users to better understand how to tailor
 I then generated user personas based on my research to create a clear image of the users. I focused on the different age ranges of the families and generated three different personas: a teen in college, a mother at home, and a grandmother. Creating multiple personas enabled me to gain understanding on multiple perspectives for this platform. 
 <br>
 
-<img width="557" alt="anneabout" src="https://github.com/aliakoe1/DH110/assets/114698982/241eee49-d374-428a-be85-37f667e8f4e0"><img width="570" alt="carrieabout" src="https://github.com/aliakoe1/DH110/assets/114698982/dfe7d7e8-6db7-4d52-8f21-d4585572ac74"><img width="571" alt="rachelabout" src="https://github.com/aliakoe1/DH110/assets/114698982/6afd0ef8-fd77-479a-90d3-b35ce0d23e62">
+<img width="557" alt="anneabout" src="https://github.com/aliakoe1/DH110/assets/114698982/241eee49-d374-428a-be85-37f667e8f4e0"><img width="570" alt="carrieabout" src="https://github.com/aliakoe1/DH110/assets/114698982/dfe7d7e8-6db7-4d52-8f21-d4585572ac74 > <img width="571" alt="rachelabout" src="https://github.com/aliakoe1/DH110/assets/114698982/6afd0ef8-fd77-479a-90d3-b35ce0d23e62">
 
 <br>
 I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. <br>
