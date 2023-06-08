@@ -126,8 +126,6 @@ After making certain decisions, I checked the accessibility of the app. <b> Espe
 <br> 
 [see more](https://github.com/aliakoe1/DH110/tree/main/Assignment%206)
 
-[see Pitch Deck](https://github.com/aliakoe1/DH110/tree/main/Assignment%206)
-
 ## Final Prototype
 [see Figma file](https://www.figma.com/file/8H9tEbDPLQfRNE1yCfAO7Z/Interactive-Prototype-2?type=design&node-id=0%3A1&t=tW6ekh1GpSWYroFu-1)
 
