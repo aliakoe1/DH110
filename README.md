@@ -91,10 +91,9 @@ I created an overall wireflow to help visualize the different places the user co
 
 <br> 
 Navigating the main feed: <br> 
- 
+ ![ezgif-3-67067d2a36](https://github.com/aliakoe1/DH110/assets/114698982/5f748da3-10ae-4165-bb20-beb3099b095d)
 
 
-https://github.com/aliakoe1/DH110/assets/114698982/96cf58fb-d03c-4167-9260-7e572b0ba647
 <br> 
 
 Navigating the group channel and other tabs: <br> 
