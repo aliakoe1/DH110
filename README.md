@@ -45,6 +45,7 @@ I also created journey maps from this research and created specific scenarios to
 
 
 I learned that the app had to be <b> easy to use and accessible for older users</b>.
+<br>
 [see more](https://github.com/aliakoe1/DH110/tree/main/Assignment04)
 
 
