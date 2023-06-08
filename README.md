@@ -92,7 +92,11 @@ I created an overall wireflow to help visualize the different places the user co
 <br> 
 Navigating the main feed: <br> 
  
+
+
+https://github.com/aliakoe1/DH110/assets/114698982/96cf58fb-d03c-4167-9260-7e572b0ba647
 <br> 
+
 Navigating the group channel and other tabs: <br> 
 
 ![3task](https://github.com/aliakoe1/DH110/assets/114698982/ba11f972-ddb7-4c62-818a-2049a5ece01f)
