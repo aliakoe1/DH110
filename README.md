@@ -74,7 +74,7 @@ After better understanding the overall layout of the app, I began to design and 
 <br>
 
 I focused on the home screen and created different versions of its layout and functions. As you can tell, there were a lot of aspects to figure out. Specifically, I was originally going to have a favorites tab where the user could save content to discuss with their loved one in person, however I learned that this would be a natural part of conversation as I revisted my contextual inquiry exercise. <br>
-
+<b> Screen Iterations </b>
 <img width="934" alt="screen iterations" src="https://github.com/aliakoe1/DH110/assets/114698982/2302c847-41a8-4b11-be22-68d48474d2af">
 
 <br>
