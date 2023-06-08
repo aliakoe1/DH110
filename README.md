@@ -38,7 +38,8 @@ I then generated user personas based on my research to create a clear image of t
 I also created journey maps from this research and created specific scenarios to <b> better visualize and understand</b> the user at different points of interaction with this app. <br>
 <img width="583" alt="annejourney" src="https://github.com/aliakoe1/DH110/assets/114698982/a9162131-f1a3-4b9a-9285-293a8c99d4b8">
 <img width="583" alt="carriejourney" src="https://github.com/aliakoe1/DH110/assets/114698982/102f4c2b-7b3e-4ad5-9402-b446b08fa91a"<img width="579" alt="racheljourney" src="https://github.com/aliakoe1/DH110/assets/114698982/5d2ca054-ba6b-4aa7-8565-88eb5ca18ca7">
->
+><img width="579" alt="racheljourney" src="https://github.com/aliakoe1/DH110/assets/114698982/11129555-05c6-4816-b41e-aefb28635e4c">
+
 
 
 I learned that the app had to be <b> easy to use and accessible for older users</b>.
